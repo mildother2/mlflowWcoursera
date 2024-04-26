@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9ef2ec98d194434a9c1ef254e1e2eb53/artifacts
+end_time: 1714128921551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ef2ec98d194434a9c1ef254e1e2eb53
+run_name: merciful-tern-606
+run_uuid: 9ef2ec98d194434a9c1ef254e1e2eb53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714128921515
+status: 3
+tags: []
+user_id: codespace

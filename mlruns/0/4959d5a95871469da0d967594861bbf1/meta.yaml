@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4959d5a95871469da0d967594861bbf1/artifacts
+deleted_time: 1714129312101
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4959d5a95871469da0d967594861bbf1
+run_name: wise-pug-142
+run_uuid: 4959d5a95871469da0d967594861bbf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714081016717
+status: 1
+tags: []
+user_id: codespace

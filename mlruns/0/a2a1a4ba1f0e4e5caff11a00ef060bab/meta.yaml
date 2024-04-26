@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a2a1a4ba1f0e4e5caff11a00ef060bab/artifacts
+deleted_time: 1714082373800
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a2a1a4ba1f0e4e5caff11a00ef060bab
+run_name: marvelous-mule-663
+run_uuid: a2a1a4ba1f0e4e5caff11a00ef060bab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714080962121
+status: 1
+tags: []
+user_id: codespace
