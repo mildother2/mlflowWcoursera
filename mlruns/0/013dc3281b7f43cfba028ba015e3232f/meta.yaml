@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/013dc3281b7f43cfba028ba015e3232f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 013dc3281b7f43cfba028ba015e3232f
+run_name: handsome-fawn-359
+run_uuid: 013dc3281b7f43cfba028ba015e3232f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714129819918
+status: 1
+tags: []
+user_id: codespace

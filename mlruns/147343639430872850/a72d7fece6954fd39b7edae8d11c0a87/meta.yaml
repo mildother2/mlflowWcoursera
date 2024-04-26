@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflowWcoursera/mlruns/147343639430872850/a72d7fece6954fd39b7edae8d11c0a87/artifacts
+end_time: 1714130223094
+entry_point_name: ''
+experiment_id: '147343639430872850'
+lifecycle_stage: active
+run_id: a72d7fece6954fd39b7edae8d11c0a87
+run_name: nebulous-conch-514
+run_uuid: a72d7fece6954fd39b7edae8d11c0a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714130223061
+status: 3
+tags: []
+user_id: codespace
