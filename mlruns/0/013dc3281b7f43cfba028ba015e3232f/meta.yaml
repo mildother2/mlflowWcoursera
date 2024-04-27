@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/013dc3281b7f43cfba028ba015e3232f/artifacts
+deleted_time: 1714244422562
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 013dc3281b7f43cfba028ba015e3232f
 run_name: handsome-fawn-359
 run_uuid: 013dc3281b7f43cfba028ba015e3232f

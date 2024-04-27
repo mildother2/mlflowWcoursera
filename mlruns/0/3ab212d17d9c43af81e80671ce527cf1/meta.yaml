@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ab212d17d9c43af81e80671ce527cf1/artifacts
+end_time: 1714244852431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ab212d17d9c43af81e80671ce527cf1
+run_name: nimble-cow-429
+run_uuid: 3ab212d17d9c43af81e80671ce527cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714244852392
+status: 3
+tags: []
+user_id: codespace

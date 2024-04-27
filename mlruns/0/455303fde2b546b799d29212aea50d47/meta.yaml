@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/455303fde2b546b799d29212aea50d47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 455303fde2b546b799d29212aea50d47
+run_name: trusting-worm-210
+run_uuid: 455303fde2b546b799d29212aea50d47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714243909730
+status: 1
+tags: []
+user_id: codespace

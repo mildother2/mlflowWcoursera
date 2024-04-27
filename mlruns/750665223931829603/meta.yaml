@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlflowWcoursera/mlruns/750665223931829603
+creation_time: 1714244731385
+experiment_id: '750665223931829603'
+last_update_time: 1714244731385
+lifecycle_stage: active
+name: test-mlflow.py

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/73f633d869ba4eae9d2b9ccd06f93672/artifacts
+deleted_time: 1714244422560
 end_time: 1714129850952
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 73f633d869ba4eae9d2b9ccd06f93672
 run_name: zealous-gnu-355
 run_uuid: 73f633d869ba4eae9d2b9ccd06f93672
